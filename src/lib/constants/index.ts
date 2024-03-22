@@ -6,7 +6,8 @@ export const metadata = {
   description: "JenGuan_website",
   keywords: "web3, Blockchain, BTC, Dapp",
   type: "website",
-  url: "next-dapp-matteocelani.vercel.app",
-  image: "next-dapp-matteocelani.vercel.app/img/logo.png",
+  url: "https://www.jenguan.dev/",
+  image:
+    "https://pbs.twimg.com/profile_banners/1461688993804869636/1708505960/1500x500",
   autor: "JenGuan Park",
 };

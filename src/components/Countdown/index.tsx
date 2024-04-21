@@ -4,12 +4,12 @@ const Countdown = () => {
   const [secondsUntilHalving, setSecondsUntilHalving] = useState(0);
   const [blockInfo, setBlockInfo] = useState({
     estimatedHalvingDate: "",
-    currentBlockReward: 6.25,
+    currentBlockReward: 3.125,
     postHalvingBlockReward: 0,
     blocksRemaining: 0,
   });
 
-  const nextHalvingBlock = 840000;
+  const nextHalvingBlock = 1050000;
   const averageBlockTimeSeconds = 10 * 60;
   const fetchBlockHeightAndInfo = useCallback(async () => {
     const apiKey = process.env.NEXT_PUBLIC_OKLINK_API_KEY as string;

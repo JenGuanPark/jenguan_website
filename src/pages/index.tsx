@@ -33,7 +33,7 @@ export default function Home() {
               objectFit="cover"
             />
           </div>
-          Bitcoin Halving Countdown
+          Next Bitcoin Halving Countdown
         </h1>
         <CountdownWithNoSSR />
       </div>

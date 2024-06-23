@@ -77,7 +77,7 @@ export default function NavBar() {
                 href="/bridge"
                 className="block px- py-2 text-black text-lg font-medium dark:text-white hover:text-custom-green hover:dark:text-custom-green"
               >
-                LayerZero
+                Fuck L0 and ZK
               </Link>
             </li>
 

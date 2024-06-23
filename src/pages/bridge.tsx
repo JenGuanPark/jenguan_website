@@ -7,19 +7,20 @@ export default function Bridge() {
       <Meta />
       <div className="w-full md:w-1/2 mx-auto p-6 flex flex-col justify-center items-center bg-gray-50 dark:bg-09 rounded-xl">
         <h1 className="flex flex-col sm:flex-row justify-center items-center text-4xl font-bold">
-          Coming soon...😁
+          <span className="text-center w-full md:w-auto white-space-nowrap">
+            Fuck you ZkSync and Layerzero 😠
+          </span>
         </h1>
-        <h3 className="mt-2 flex flex-col sm:flex-row justify-center items-center text-3xl font-bold">
-          <span className="mx-2 mt-4 sm:mt-2">Waiting for the</span>
+        <h3 className="mt-2 flex flex-col sm:flex-row justify-center  items-center text-3xl font-bold">
+          <span className="mx-2 mt-4 sm:mt-2">I will always love</span>
           <a
             className="mt-0 sm:mt-2 text-custom-green underline"
-            href="https://layerzeroscan.com/"
+            href="https://arbitrum.foundation"
             target="_blank"
             rel="noopener noreferrer"
           >
-            LayerZero Scan API
+            Arbitrum ❤️
           </a>
-          <span className="mx-2 sm:mt-2">to open</span>
         </h3>
         <h3 className="text-2xl text-center mt-8">Thanks for the follow!</h3>
         <a
